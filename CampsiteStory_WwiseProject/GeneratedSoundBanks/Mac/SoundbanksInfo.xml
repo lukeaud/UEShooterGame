@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/luke/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/UnityProjects/CampsiteStory/CampsiteStory_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/luke/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/UnityProjects/CampsiteStory/CampsiteStory_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/luke/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/UnityProjects/CampsiteStory/CampsiteStory_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/luke/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/UnityProjects/CampsiteStory/CampsiteStory_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3641576696">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Room\Reverb"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="2103016345" Language="English(US)" Hash="342850969">
+			<ObjectPath>\SoundBanks\Default Work Unit\CampsiteBank</ObjectPath>
+			<ShortName>CampsiteBank</ShortName>
+			<Path>English(US)/CampsiteBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="278617630" Name="Play_Ambience" ObjectPath="\Events\Default Work Unit\Environment\Ambience\Play_Ambience" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="376465636" Language="SFX">
+							<ShortName>Environment\Pigeon\Pigeon_03.wav</ShortName>
+							<Path>SFX/Environment/Pigeon/Pigeon_03_D623909A.wem</Path>
+						</File>
+						<File Id="472904969" Language="SFX">
+							<ShortName>Ambience.wav</ShortName>
+							<Path>SFX/Ambience_CDA3C234.wem</Path>
+						</File>
+						<File Id="765989661" Language="SFX">
+							<ShortName>Environment\Pigeon\Pigeon_01.wav</ShortName>
+							<Path>SFX/Environment/Pigeon/Pigeon_01_D623909A.wem</Path>
+						</File>
+						<File Id="930157890" Language="SFX">
+							<ShortName>Airplane.wav</ShortName>
+							<Path>SFX/Airplane_75F58E51.wem</Path>
+						</File>
+						<File Id="982039955" Language="SFX">
+							<ShortName>Environment\Pigeon\Pigeon_02.wav</ShortName>
+							<Path>SFX/Environment/Pigeon/Pigeon_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4040819388" Name="Play_Fire_01" ObjectPath="\Events\Default Work Unit\Environment\Ambience\Play_Fire_01" MaxAttenuation="10.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="635521384" Language="SFX">
+							<ShortName>Environment\Fire\Fire_01.wav</ShortName>
+							<Path>SFX/Environment/Fire/Fire_01_560A6122.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="960230593" Name="Play_NPC_Andrew_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="11.989333" DurationMax="11.989333">
+					<IncludedMemoryFiles>
+						<File Id="1009748982" Language="SFX">
+							<ShortName>Andrew\NPC_Andrew_VO_01.wav</ShortName>
+							<Path>SFX/Andrew/NPC_Andrew_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="960230594" Name="Play_NPC_Andrew_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="4.181334" DurationMax="4.181334">
+					<IncludedMemoryFiles>
+						<File Id="321762099" Language="SFX">
+							<ShortName>Andrew\NPC_Andrew_VO_02.wav</ShortName>
+							<Path>SFX/Andrew/NPC_Andrew_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="960230595" Name="Play_NPC_Andrew_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_03" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="24.053333" DurationMax="24.053333">
+					<IncludedMemoryFiles>
+						<File Id="533891612" Language="SFX">
+							<ShortName>Andrew\NPC_Andrew_VO_03.wav</ShortName>
+							<Path>SFX/Andrew/NPC_Andrew_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="960230596" Name="Play_NPC_Andrew_VO_04" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_04" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="11.520000" DurationMax="11.520000">
+					<IncludedMemoryFiles>
+						<File Id="449059898" Language="SFX">
+							<ShortName>Andrew\NPC_Andrew_VO_04.wav</ShortName>
+							<Path>SFX/Andrew/NPC_Andrew_VO_04_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="960230597" Name="Play_NPC_Andrew_VO_05" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_05" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="2.944000" DurationMax="2.944000">
+					<IncludedMemoryFiles>
+						<File Id="922280819" Language="SFX">
+							<ShortName>Andrew\NPC_Andrew_VO_05.wav</ShortName>
+							<Path>SFX/Andrew/NPC_Andrew_VO_05_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4052191094" Name="Play_NPC_Benji_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Benji\Play_NPC_Benji_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="10.709333" DurationMax="10.709333">
+					<IncludedMemoryFiles>
+						<File Id="175253041" Language="SFX">
+							<ShortName>Benji\NPC_Benji_VO_01.wav</ShortName>
+							<Path>SFX/Benji/NPC_Benji_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4052191093" Name="Play_NPC_Benji_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Benji\Play_NPC_Benji_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="32.714668" DurationMax="32.714668">
+					<IncludedMemoryFiles>
+						<File Id="509872154" Language="SFX">
+							<ShortName>Benji\NPC_Benji_VO_02.wav</ShortName>
+							<Path>SFX/Benji/NPC_Benji_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4052191092" Name="Play_NPC_Benji_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Benji\Play_NPC_Benji_VO_03" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="22.816000" DurationMax="22.816000">
+					<IncludedMemoryFiles>
+						<File Id="136207357" Language="SFX">
+							<ShortName>Benji\NPC_Benji_VO_03.wav</ShortName>
+							<Path>SFX/Benji/NPC_Benji_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1957374721" Name="Play_NPC_Kara_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="5.162667" DurationMax="5.162667">
+					<IncludedMemoryFiles>
+						<File Id="192003110" Language="SFX">
+							<ShortName>Kara\NPC_Kara_VO_01.wav</ShortName>
+							<Path>SFX/Kara/NPC_Kara_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1957374722" Name="Play_NPC_Kara_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="12.298667" DurationMax="12.298667">
+					<IncludedMemoryFiles>
+						<File Id="821494868" Language="SFX">
+							<ShortName>Kara\NPC_Kara_VO_02.wav</ShortName>
+							<Path>SFX/Kara/NPC_Kara_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1957374723" Name="Play_NPC_Kara_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_03" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="3.733333" DurationMax="3.733333">
+					<IncludedMemoryFiles>
+						<File Id="607615778" Language="SFX">
+							<ShortName>Kara\NPC_Kara_VO_03.wav</ShortName>
+							<Path>SFX/Kara/NPC_Kara_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1957374724" Name="Play_NPC_Kara_VO_04" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_04" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="5.888000" DurationMax="5.888000">
+					<IncludedMemoryFiles>
+						<File Id="546003544" Language="SFX">
+							<ShortName>Kara\NPC_Kara_VO_04.wav</ShortName>
+							<Path>SFX/Kara/NPC_Kara_VO_04_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3343195844" Name="Play_NPC_Lilly_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Lilly\Play_NPC_Lilly_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="19.029333" DurationMax="19.029333">
+					<IncludedMemoryFiles>
+						<File Id="840278170" Language="SFX">
+							<ShortName>Lilly\NPC_Lilly_VO_01.wav</ShortName>
+							<Path>SFX/Lilly/NPC_Lilly_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3899671848" Name="Play_NPC_Nic_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="17.706667" DurationMax="17.706667">
+					<IncludedMemoryFiles>
+						<File Id="674677334" Language="SFX">
+							<ShortName>Nic\NPC_Nic_VO_01.wav</ShortName>
+							<Path>SFX/Nic/NPC_Nic_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3899671851" Name="Play_NPC_Nic_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="7.296000" DurationMax="7.296000">
+					<IncludedMemoryFiles>
+						<File Id="29871896" Language="SFX">
+							<ShortName>Nic\NPC_Nic_VO_02.wav</ShortName>
+							<Path>SFX/Nic/NPC_Nic_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3899671850" Name="Play_NPC_Nic_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_03" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="28.320000" DurationMax="28.320000">
+					<IncludedMemoryFiles>
+						<File Id="732051085" Language="SFX">
+							<ShortName>Nic\NPC_Nic_VO_03.wav</ShortName>
+							<Path>SFX/Nic/NPC_Nic_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3899671853" Name="Play_NPC_Nic_VO_04" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_04" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="9.669333" DurationMax="9.669333">
+					<IncludedMemoryFiles>
+						<File Id="964328562" Language="SFX">
+							<ShortName>Nic\NPC_Nic_VO_04.wav</ShortName>
+							<Path>SFX/Nic/NPC_Nic_VO_04_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2854773195" Name="Play_NPC_Swet_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Swetlana\Play_NPC_Swet_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="7.137000" DurationMax="7.137000">
+					<IncludedMemoryFiles>
+						<File Id="649040191" Language="SFX">
+							<ShortName>Swetlana\NPC_Swet_VO_01.wav</ShortName>
+							<Path>SFX/Swetlana/NPC_Swet_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2854773192" Name="Play_NPC_Swet_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Swetlana\Play_NPC_Swet_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="10.272000" DurationMax="10.272000">
+					<IncludedMemoryFiles>
+						<File Id="92015614" Language="SFX">
+							<ShortName>Swetlana\NPC_Swet_VO_02.wav</ShortName>
+							<Path>SFX/Swetlana/NPC_Swet_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2214458158" Name="Play_NPC_Vera_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="18.480000" DurationMax="18.480000">
+					<IncludedMemoryFiles>
+						<File Id="238662427" Language="SFX">
+							<ShortName>Vera\NPC_Vera_VO_01.wav</ShortName>
+							<Path>SFX/Vera/NPC_Vera_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2214458157" Name="Play_NPC_Vera_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="9.941334" DurationMax="9.941334">
+					<IncludedMemoryFiles>
+						<File Id="459725841" Language="SFX">
+							<ShortName>Vera\NPC_Vera_VO_02.wav</ShortName>
+							<Path>SFX/Vera/NPC_Vera_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2214458156" Name="Play_NPC_Vera_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_03" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="4.736000" DurationMax="4.736000">
+					<IncludedMemoryFiles>
+						<File Id="513961251" Language="SFX">
+							<ShortName>Vera\NPC_Vera_VO_03.wav</ShortName>
+							<Path>SFX/Vera/NPC_Vera_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2214458155" Name="Play_NPC_Vera_VO_04" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_04" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="18.346666" DurationMax="18.346666">
+					<IncludedMemoryFiles>
+						<File Id="573474321" Language="SFX">
+							<ShortName>Vera\NPC_Vera_VO_04.wav</ShortName>
+							<Path>SFX/Vera/NPC_Vera_VO_04_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2214458154" Name="Play_NPC_Vera_VO_05" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_05" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="1.056000" DurationMax="1.056000">
+					<IncludedMemoryFiles>
+						<File Id="470810116" Language="SFX">
+							<ShortName>Vera\NPC_Vera_VO_05.wav</ShortName>
+							<Path>SFX/Vera/NPC_Vera_VO_05_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3862406707" Name="Play_NPC_Vincent_VO_01" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_01" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="16.128000" DurationMax="16.128000">
+					<IncludedMemoryFiles>
+						<File Id="878418539" Language="SFX">
+							<ShortName>Vincent\NPC_Vincent_VO_01.wav</ShortName>
+							<Path>SFX/Vincent/NPC_Vincent_VO_01_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3862406704" Name="Play_NPC_Vincent_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_02" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="29.157333" DurationMax="29.157333">
+					<IncludedMemoryFiles>
+						<File Id="98405879" Language="SFX">
+							<ShortName>Vincent\NPC_Vincent_VO_02.wav</ShortName>
+							<Path>SFX/Vincent/NPC_Vincent_VO_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3862406705" Name="Play_NPC_Vincent_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_03" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="19.893333" DurationMax="19.893333">
+					<IncludedMemoryFiles>
+						<File Id="999192460" Language="SFX">
+							<ShortName>Vincent\NPC_Vincent_VO_03.wav</ShortName>
+							<Path>SFX/Vincent/NPC_Vincent_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3862406710" Name="Play_NPC_Vincent_VO_04" ObjectPath="\Events\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_04" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="8.896000" DurationMax="8.896000">
+					<IncludedMemoryFiles>
+						<File Id="175319446" Language="SFX">
+							<ShortName>Vincent\NPC_Vincent_VO_04.wav</ShortName>
+							<Path>SFX/Vincent/NPC_Vincent_VO_04_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3962705674" Name="Play_Player_VO_02" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_02" DurationType="OneShot" DurationMin="1.829333" DurationMax="2.261333">
+					<IncludedMemoryFiles>
+						<File Id="150244734" Language="SFX">
+							<ShortName>Player\Male\Player_VO_02.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_02_D623909A.wem</Path>
+						</File>
+						<File Id="557957676" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_02.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_02_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="150244734"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="557957676"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705675" Name="Play_Player_VO_03" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_03" DurationType="OneShot" DurationMin="5.312000" DurationMax="6.234667">
+					<IncludedMemoryFiles>
+						<File Id="375471184" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_03.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_03_D623909A.wem</Path>
+						</File>
+						<File Id="636568623" Language="SFX">
+							<ShortName>Player\Male\Player_VO_03.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_03_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="636568623"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="375471184"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705676" Name="Play_Player_VO_04" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_04" DurationType="OneShot" DurationMin="0.757333" DurationMax="0.960000">
+					<IncludedMemoryFiles>
+						<File Id="344193084" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_04.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_04_D623909A.wem</Path>
+						</File>
+						<File Id="386610498" Language="SFX">
+							<ShortName>Player\Male\Player_VO_04.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_04_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="386610498"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="344193084"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705677" Name="Play_Player_VO_05" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_05" DurationType="OneShot" DurationMin="4.757333" DurationMax="4.778666">
+					<IncludedMemoryFiles>
+						<File Id="190862601" Language="SFX">
+							<ShortName>Player\Male\Player_VO_05.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_05_D623909A.wem</Path>
+						</File>
+						<File Id="944686441" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_05.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_05_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="190862601"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="944686441"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705678" Name="Play_Player_VO_06" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_06" DurationType="OneShot" DurationMin="3.568000" DurationMax="3.904000">
+					<IncludedMemoryFiles>
+						<File Id="58596014" Language="SFX">
+							<ShortName>Player\Male\Player_VO_06.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_06_D623909A.wem</Path>
+						</File>
+						<File Id="113709054" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_06.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_06_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="58596014"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="113709054"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705679" Name="Play_Player_VO_07" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_07" DurationType="OneShot" DurationMin="1.150667" DurationMax="1.205333">
+					<IncludedMemoryFiles>
+						<File Id="237915561" Language="SFX">
+							<ShortName>Player\Male\Player_VO_07.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_07_D623909A.wem</Path>
+						</File>
+						<File Id="541113852" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_07.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_07_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="237915561"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="541113852"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705664" Name="Play_Player_VO_08" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_08" DurationType="OneShot" DurationMin="2.240000" DurationMax="2.368000">
+					<IncludedMemoryFiles>
+						<File Id="22724925" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_08.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_08_D623909A.wem</Path>
+						</File>
+						<File Id="1044408858" Language="SFX">
+							<ShortName>Player\Male\Player_VO_08.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_08_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="1044408858"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="22724925"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3962705665" Name="Play_Player_VO_09" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_09" DurationType="OneShot" DurationMin="2.765333" DurationMax="3.685333">
+					<IncludedMemoryFiles>
+						<File Id="5132986" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_09.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_09_D623909A.wem</Path>
+						</File>
+						<File Id="1024379238" Language="SFX">
+							<ShortName>Player\Male\Player_VO_09.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_09_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="1024379238"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="5132986"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483387" Name="Play_Player_VO_10" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_10" DurationType="OneShot" DurationMin="1.589333" DurationMax="2.196000">
+					<IncludedMemoryFiles>
+						<File Id="446669458" Language="SFX">
+							<ShortName>Player\Male\Player_VO_10.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_10_D623909A.wem</Path>
+						</File>
+						<File Id="604535104" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_10.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_10_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="446669458"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="604535104"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483386" Name="Play_Player_VO_11" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_11" DurationType="OneShot" DurationMin="2.037333" DurationMax="2.954667">
+					<IncludedMemoryFiles>
+						<File Id="813640570" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_11.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_11_D623909A.wem</Path>
+						</File>
+						<File Id="886679445" Language="SFX">
+							<ShortName>Player\Male\Player_VO_11.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_11_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="886679445"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="813640570"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483385" Name="Play_Player_VO_12" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_12" DurationType="OneShot" DurationMin="2.240000" DurationMax="2.384000">
+					<IncludedMemoryFiles>
+						<File Id="505707352" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_12.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_12_D623909A.wem</Path>
+						</File>
+						<File Id="521017068" Language="SFX">
+							<ShortName>Player\Male\Player_VO_12.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_12_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="521017068"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="505707352"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483384" Name="Play_Player_VO_13" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_13" DurationType="OneShot" DurationMin="1.610667" DurationMax="1.706667">
+					<IncludedMemoryFiles>
+						<File Id="424746993" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_13.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_13_D623909A.wem</Path>
+						</File>
+						<File Id="747710228" Language="SFX">
+							<ShortName>Player\Male\Player_VO_13.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_13_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="747710228"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="424746993"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483391" Name="Play_Player_VO_14" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_14" DurationType="OneShot" DurationMin="3.221333" DurationMax="3.682667">
+					<IncludedMemoryFiles>
+						<File Id="374910612" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_14.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_14_D623909A.wem</Path>
+						</File>
+						<File Id="418302429" Language="SFX">
+							<ShortName>Player\Male\Player_VO_14.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_14_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="418302429"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="374910612"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483390" Name="Play_Player_VO_15" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_15" DurationType="OneShot" DurationMin="4.693333" DurationMax="5.493333">
+					<IncludedMemoryFiles>
+						<File Id="484504608" Language="SFX">
+							<ShortName>Player\Male\Player_VO_15.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_15_D623909A.wem</Path>
+						</File>
+						<File Id="740903623" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_15.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_15_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="484504608"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="740903623"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483389" Name="Play_Player_VO_16" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_16" DurationType="OneShot" DurationMin="3.008000" DurationMax="4.238667">
+					<IncludedMemoryFiles>
+						<File Id="14362354" Language="SFX">
+							<ShortName>Player\Male\Player_VO_16.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_16_D623909A.wem</Path>
+						</File>
+						<File Id="557285807" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_16.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_16_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="557285807"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="14362354"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483388" Name="Play_Player_VO_17" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_17" DurationType="OneShot" DurationMin="3.400000" DurationMax="4.346667">
+					<IncludedMemoryFiles>
+						<File Id="415251902" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_17.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_17_D623909A.wem</Path>
+						</File>
+						<File Id="570598238" Language="SFX">
+							<ShortName>Player\Male\Player_VO_17.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_17_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="415251902"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="570598238"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483379" Name="Play_Player_VO_18" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_18" DurationType="OneShot" DurationMin="1.536000" DurationMax="1.749333">
+					<IncludedMemoryFiles>
+						<File Id="148325317" Language="SFX">
+							<ShortName>Player\Male\Player_VO_18.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_18_D623909A.wem</Path>
+						</File>
+						<File Id="192667130" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_18.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_18_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="192667130"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="148325317"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3979483378" Name="Play_Player_VO_19" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_19" DurationType="OneShot" DurationMin="1.205333" DurationMax="1.205333">
+					<IncludedMemoryFiles>
+						<File Id="7302588" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_19.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_19_D623909A.wem</Path>
+						</File>
+						<File Id="757967590" Language="SFX">
+							<ShortName>Player\Male\Player_VO_19.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_19_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="7302588"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="757967590"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260974" Name="Play_Player_VO_20" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_20" DurationType="OneShot" DurationMin="1.770667" DurationMax="2.186667">
+					<IncludedMemoryFiles>
+						<File Id="253505506" Language="SFX">
+							<ShortName>Player\Male\Player_VO_20.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_20_D623909A.wem</Path>
+						</File>
+						<File Id="291610648" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_20.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_20_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="291610648"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="253505506"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260975" Name="Play_Player_VO_21" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_21" DurationType="OneShot" DurationMin="2.389333" DurationMax="3.221333">
+					<IncludedMemoryFiles>
+						<File Id="565429829" Language="SFX">
+							<ShortName>Player\Male\Player_VO_21.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_21_D623909A.wem</Path>
+						</File>
+						<File Id="960121761" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_21.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_21_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="960121761"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="565429829"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260972" Name="Play_Player_VO_22" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_22" DurationType="OneShot" DurationMin="1.621333" DurationMax="1.685333">
+					<IncludedMemoryFiles>
+						<File Id="149780715" Language="SFX">
+							<ShortName>Player\Male\Player_VO_22.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_22_D623909A.wem</Path>
+						</File>
+						<File Id="902349257" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_22.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_22_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="902349257"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="149780715"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260973" Name="Play_Player_VO_23" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_23" DurationType="OneShot" DurationMin="1.632000" DurationMax="1.642667">
+					<IncludedMemoryFiles>
+						<File Id="117861244" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_23.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_23_D623909A.wem</Path>
+						</File>
+						<File Id="476530844" Language="SFX">
+							<ShortName>Player\Male\Player_VO_23.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_23_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="117861244"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="476530844"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260970" Name="Play_Player_VO_24" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_24" DurationType="OneShot" DurationMin="2.090667" DurationMax="2.994667">
+					<IncludedMemoryFiles>
+						<File Id="878050262" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_24.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_24_D623909A.wem</Path>
+						</File>
+						<File Id="952685878" Language="SFX">
+							<ShortName>Player\Male\Player_VO_24.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_24_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="878050262"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="952685878"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260971" Name="Play_Player_VO_25" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_25" DurationType="OneShot" DurationMin="1.856000" DurationMax="1.941333">
+					<IncludedMemoryFiles>
+						<File Id="347771204" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_25.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_25_D623909A.wem</Path>
+						</File>
+						<File Id="457705365" Language="SFX">
+							<ShortName>Player\Male\Player_VO_25.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_25_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="347771204"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="457705365"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260968" Name="Play_Player_VO_26" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_26" DurationType="OneShot" DurationMin="1.045333" DurationMax="1.237333">
+					<IncludedMemoryFiles>
+						<File Id="485658984" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_26.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_26_D623909A.wem</Path>
+						</File>
+						<File Id="883925885" Language="SFX">
+							<ShortName>Player\Male\Player_VO_26.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_26_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="485658984"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="883925885"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260969" Name="Play_Player_VO_27" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_27" DurationType="OneShot" DurationMin="1.877333" DurationMax="2.165333">
+					<IncludedMemoryFiles>
+						<File Id="198108283" Language="SFX">
+							<ShortName>Player\Male\Player_VO_27.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_27_D623909A.wem</Path>
+						</File>
+						<File Id="264759733" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_27.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_27_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="264759733"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="198108283"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260966" Name="Play_Player_VO_28" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_28" DurationType="OneShot" DurationMin="1.194667" DurationMax="1.248000">
+					<IncludedMemoryFiles>
+						<File Id="496453871" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_28.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_28_D623909A.wem</Path>
+						</File>
+						<File Id="874782814" Language="SFX">
+							<ShortName>Player\Male\Player_VO_28.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_28_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="496453871"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="874782814"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3996260967" Name="Play_Player_VO_29" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_29" DurationType="OneShot" DurationMin="4.245333" DurationMax="5.472000">
+					<IncludedMemoryFiles>
+						<File Id="503271355" Language="SFX">
+							<ShortName>Player\Male\Player_VO_29.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_29_D623909A.wem</Path>
+						</File>
+						<File Id="824939048" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_29.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_29_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="824939048"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="503271355"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4013038529" Name="Play_Player_VO_30" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_30" DurationType="OneShot" DurationMin="2.432000" DurationMax="3.114667">
+					<IncludedMemoryFiles>
+						<File Id="237357734" Language="SFX">
+							<ShortName>Player\Male\Player_VO_30.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_30_D623909A.wem</Path>
+						</File>
+						<File Id="419270827" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_30.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_30_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="419270827"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="237357734"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4013038528" Name="Play_Player_VO_31" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_31" DurationType="OneShot" DurationMin="1.685333" DurationMax="1.994667">
+					<IncludedMemoryFiles>
+						<File Id="128444826" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_31.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_31_D623909A.wem</Path>
+						</File>
+						<File Id="258589222" Language="SFX">
+							<ShortName>Player\Male\Player_VO_31.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_31_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="128444826"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="258589222"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4013038531" Name="Play_Player_VO_32" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_32" DurationType="OneShot" DurationMin="3.626667" DurationMax="3.669333">
+					<IncludedMemoryFiles>
+						<File Id="564035777" Language="SFX">
+							<ShortName>Player\Male\Player_VO_32.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_32_D623909A.wem</Path>
+						</File>
+						<File Id="981170238" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_32.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_32_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="981170238"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="564035777"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4013038530" Name="Play_Player_VO_33" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_33" DurationType="OneShot" DurationMin="4.965333" DurationMax="5.386667">
+					<IncludedMemoryFiles>
+						<File Id="500885880" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_33.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_33_D623909A.wem</Path>
+						</File>
+						<File Id="573992691" Language="SFX">
+							<ShortName>Player\Male\Player_VO_33.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_33_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="500885880"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="573992691"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4013038533" Name="Play_Player_VO_34" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_34" DurationType="OneShot" DurationMin="2.986667" DurationMax="4.106667">
+					<IncludedMemoryFiles>
+						<File Id="435090476" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_34.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_34_D623909A.wem</Path>
+						</File>
+						<File Id="727019415" Language="SFX">
+							<ShortName>Player\Male\Player_VO_34.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_34_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="435090476"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="727019415"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4013038532" Name="Play_Player_VO_35" ObjectPath="\Events\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_35" DurationType="OneShot" DurationMin="4.693333" DurationMax="5.397333">
+					<IncludedMemoryFiles>
+						<File Id="228466233" Language="SFX">
+							<ShortName>Player\Male\Player_VO_35.wav</ShortName>
+							<Path>SFX/Player/Male/Player_VO_35_D623909A.wem</Path>
+						</File>
+						<File Id="853108657" Language="SFX">
+							<ShortName>Player\Female\Player_VO_FM_35.wav</ShortName>
+							<Path>SFX/Player/Female/Player_VO_FM_35_D623909A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{626A00FC-19D7-4E7B-85E8-517603D27449}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{626A00FC-19D7-4E7B-85E8-517603D27449}">
+							<Media>
+								<File Id="853108657"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EB4DF741-5525-420E-BF38-4B73FCE980E3}">
+							<Media>
+								<File Id="228466233"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2923554106" Name="Stop_Fire_01" ObjectPath="\Events\Default Work Unit\Environment\Ambience\Stop_Fire_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Room\Reverb"/>
+			</IncludedAuxBusses>
+			<IncludedMemoryFiles>
+				<File Id="5132986" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_09.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_09_D623909A.wem</Path>
+				</File>
+				<File Id="7302588" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_19.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_19_D623909A.wem</Path>
+				</File>
+				<File Id="14362354" Language="SFX">
+					<ShortName>Player\Male\Player_VO_16.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_16_D623909A.wem</Path>
+				</File>
+				<File Id="22724925" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_08.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_08_D623909A.wem</Path>
+				</File>
+				<File Id="29871896" Language="SFX">
+					<ShortName>Nic\NPC_Nic_VO_02.wav</ShortName>
+					<Path>SFX/Nic/NPC_Nic_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="58596014" Language="SFX">
+					<ShortName>Player\Male\Player_VO_06.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_06_D623909A.wem</Path>
+				</File>
+				<File Id="92015614" Language="SFX">
+					<ShortName>Swetlana\NPC_Swet_VO_02.wav</ShortName>
+					<Path>SFX/Swetlana/NPC_Swet_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="98405879" Language="SFX">
+					<ShortName>Vincent\NPC_Vincent_VO_02.wav</ShortName>
+					<Path>SFX/Vincent/NPC_Vincent_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="113709054" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_06.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_06_D623909A.wem</Path>
+				</File>
+				<File Id="117861244" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_23.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_23_D623909A.wem</Path>
+				</File>
+				<File Id="128444826" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_31.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_31_D623909A.wem</Path>
+				</File>
+				<File Id="136207357" Language="SFX">
+					<ShortName>Benji\NPC_Benji_VO_03.wav</ShortName>
+					<Path>SFX/Benji/NPC_Benji_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="148325317" Language="SFX">
+					<ShortName>Player\Male\Player_VO_18.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_18_D623909A.wem</Path>
+				</File>
+				<File Id="149780715" Language="SFX">
+					<ShortName>Player\Male\Player_VO_22.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_22_D623909A.wem</Path>
+				</File>
+				<File Id="150244734" Language="SFX">
+					<ShortName>Player\Male\Player_VO_02.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="175253041" Language="SFX">
+					<ShortName>Benji\NPC_Benji_VO_01.wav</ShortName>
+					<Path>SFX/Benji/NPC_Benji_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="175319446" Language="SFX">
+					<ShortName>Vincent\NPC_Vincent_VO_04.wav</ShortName>
+					<Path>SFX/Vincent/NPC_Vincent_VO_04_D623909A.wem</Path>
+				</File>
+				<File Id="190862601" Language="SFX">
+					<ShortName>Player\Male\Player_VO_05.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_05_D623909A.wem</Path>
+				</File>
+				<File Id="192003110" Language="SFX">
+					<ShortName>Kara\NPC_Kara_VO_01.wav</ShortName>
+					<Path>SFX/Kara/NPC_Kara_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="192667130" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_18.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_18_D623909A.wem</Path>
+				</File>
+				<File Id="198108283" Language="SFX">
+					<ShortName>Player\Male\Player_VO_27.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_27_D623909A.wem</Path>
+				</File>
+				<File Id="228466233" Language="SFX">
+					<ShortName>Player\Male\Player_VO_35.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_35_D623909A.wem</Path>
+				</File>
+				<File Id="237357734" Language="SFX">
+					<ShortName>Player\Male\Player_VO_30.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_30_D623909A.wem</Path>
+				</File>
+				<File Id="237915561" Language="SFX">
+					<ShortName>Player\Male\Player_VO_07.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_07_D623909A.wem</Path>
+				</File>
+				<File Id="238662427" Language="SFX">
+					<ShortName>Vera\NPC_Vera_VO_01.wav</ShortName>
+					<Path>SFX/Vera/NPC_Vera_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="253505506" Language="SFX">
+					<ShortName>Player\Male\Player_VO_20.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_20_D623909A.wem</Path>
+				</File>
+				<File Id="258589222" Language="SFX">
+					<ShortName>Player\Male\Player_VO_31.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_31_D623909A.wem</Path>
+				</File>
+				<File Id="264759733" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_27.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_27_D623909A.wem</Path>
+				</File>
+				<File Id="291610648" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_20.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_20_D623909A.wem</Path>
+				</File>
+				<File Id="321762099" Language="SFX">
+					<ShortName>Andrew\NPC_Andrew_VO_02.wav</ShortName>
+					<Path>SFX/Andrew/NPC_Andrew_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="344193084" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_04.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_04_D623909A.wem</Path>
+				</File>
+				<File Id="347771204" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_25.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_25_D623909A.wem</Path>
+				</File>
+				<File Id="374910612" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_14.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_14_D623909A.wem</Path>
+				</File>
+				<File Id="375471184" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_03.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_03_D623909A.wem</Path>
+				</File>
+				<File Id="376465636" Language="SFX">
+					<ShortName>Environment\Pigeon\Pigeon_03.wav</ShortName>
+					<Path>SFX/Environment/Pigeon/Pigeon_03_D623909A.wem</Path>
+				</File>
+				<File Id="386610498" Language="SFX">
+					<ShortName>Player\Male\Player_VO_04.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_04_D623909A.wem</Path>
+				</File>
+				<File Id="415251902" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_17.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_17_D623909A.wem</Path>
+				</File>
+				<File Id="418302429" Language="SFX">
+					<ShortName>Player\Male\Player_VO_14.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_14_D623909A.wem</Path>
+				</File>
+				<File Id="419270827" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_30.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_30_D623909A.wem</Path>
+				</File>
+				<File Id="424746993" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_13.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_13_D623909A.wem</Path>
+				</File>
+				<File Id="435090476" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_34.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_34_D623909A.wem</Path>
+				</File>
+				<File Id="446669458" Language="SFX">
+					<ShortName>Player\Male\Player_VO_10.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_10_D623909A.wem</Path>
+				</File>
+				<File Id="449059898" Language="SFX">
+					<ShortName>Andrew\NPC_Andrew_VO_04.wav</ShortName>
+					<Path>SFX/Andrew/NPC_Andrew_VO_04_D623909A.wem</Path>
+				</File>
+				<File Id="457705365" Language="SFX">
+					<ShortName>Player\Male\Player_VO_25.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_25_D623909A.wem</Path>
+				</File>
+				<File Id="459725841" Language="SFX">
+					<ShortName>Vera\NPC_Vera_VO_02.wav</ShortName>
+					<Path>SFX/Vera/NPC_Vera_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="470810116" Language="SFX">
+					<ShortName>Vera\NPC_Vera_VO_05.wav</ShortName>
+					<Path>SFX/Vera/NPC_Vera_VO_05_D623909A.wem</Path>
+				</File>
+				<File Id="472904969" Language="SFX">
+					<ShortName>Ambience.wav</ShortName>
+					<Path>SFX/Ambience_CDA3C234.wem</Path>
+				</File>
+				<File Id="476530844" Language="SFX">
+					<ShortName>Player\Male\Player_VO_23.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_23_D623909A.wem</Path>
+				</File>
+				<File Id="484504608" Language="SFX">
+					<ShortName>Player\Male\Player_VO_15.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_15_D623909A.wem</Path>
+				</File>
+				<File Id="485658984" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_26.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_26_D623909A.wem</Path>
+				</File>
+				<File Id="496453871" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_28.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_28_D623909A.wem</Path>
+				</File>
+				<File Id="500885880" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_33.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_33_D623909A.wem</Path>
+				</File>
+				<File Id="503271355" Language="SFX">
+					<ShortName>Player\Male\Player_VO_29.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_29_D623909A.wem</Path>
+				</File>
+				<File Id="505707352" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_12.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_12_D623909A.wem</Path>
+				</File>
+				<File Id="509872154" Language="SFX">
+					<ShortName>Benji\NPC_Benji_VO_02.wav</ShortName>
+					<Path>SFX/Benji/NPC_Benji_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="513961251" Language="SFX">
+					<ShortName>Vera\NPC_Vera_VO_03.wav</ShortName>
+					<Path>SFX/Vera/NPC_Vera_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="521017068" Language="SFX">
+					<ShortName>Player\Male\Player_VO_12.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_12_D623909A.wem</Path>
+				</File>
+				<File Id="533891612" Language="SFX">
+					<ShortName>Andrew\NPC_Andrew_VO_03.wav</ShortName>
+					<Path>SFX/Andrew/NPC_Andrew_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="541113852" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_07.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_07_D623909A.wem</Path>
+				</File>
+				<File Id="546003544" Language="SFX">
+					<ShortName>Kara\NPC_Kara_VO_04.wav</ShortName>
+					<Path>SFX/Kara/NPC_Kara_VO_04_D623909A.wem</Path>
+				</File>
+				<File Id="557285807" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_16.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_16_D623909A.wem</Path>
+				</File>
+				<File Id="557957676" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_02.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_02_D623909A.wem</Path>
+				</File>
+				<File Id="564035777" Language="SFX">
+					<ShortName>Player\Male\Player_VO_32.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_32_D623909A.wem</Path>
+				</File>
+				<File Id="565429829" Language="SFX">
+					<ShortName>Player\Male\Player_VO_21.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_21_D623909A.wem</Path>
+				</File>
+				<File Id="570598238" Language="SFX">
+					<ShortName>Player\Male\Player_VO_17.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_17_D623909A.wem</Path>
+				</File>
+				<File Id="573474321" Language="SFX">
+					<ShortName>Vera\NPC_Vera_VO_04.wav</ShortName>
+					<Path>SFX/Vera/NPC_Vera_VO_04_D623909A.wem</Path>
+				</File>
+				<File Id="573992691" Language="SFX">
+					<ShortName>Player\Male\Player_VO_33.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_33_D623909A.wem</Path>
+				</File>
+				<File Id="604535104" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_10.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_10_D623909A.wem</Path>
+				</File>
+				<File Id="607615778" Language="SFX">
+					<ShortName>Kara\NPC_Kara_VO_03.wav</ShortName>
+					<Path>SFX/Kara/NPC_Kara_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="635521384" Language="SFX">
+					<ShortName>Environment\Fire\Fire_01.wav</ShortName>
+					<Path>SFX/Environment/Fire/Fire_01_560A6122.wem</Path>
+				</File>
+				<File Id="636568623" Language="SFX">
+					<ShortName>Player\Male\Player_VO_03.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="649040191" Language="SFX">
+					<ShortName>Swetlana\NPC_Swet_VO_01.wav</ShortName>
+					<Path>SFX/Swetlana/NPC_Swet_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="674677334" Language="SFX">
+					<ShortName>Nic\NPC_Nic_VO_01.wav</ShortName>
+					<Path>SFX/Nic/NPC_Nic_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="727019415" Language="SFX">
+					<ShortName>Player\Male\Player_VO_34.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_34_D623909A.wem</Path>
+				</File>
+				<File Id="732051085" Language="SFX">
+					<ShortName>Nic\NPC_Nic_VO_03.wav</ShortName>
+					<Path>SFX/Nic/NPC_Nic_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="740903623" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_15.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_15_D623909A.wem</Path>
+				</File>
+				<File Id="747710228" Language="SFX">
+					<ShortName>Player\Male\Player_VO_13.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_13_D623909A.wem</Path>
+				</File>
+				<File Id="757967590" Language="SFX">
+					<ShortName>Player\Male\Player_VO_19.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_19_D623909A.wem</Path>
+				</File>
+				<File Id="765989661" Language="SFX">
+					<ShortName>Environment\Pigeon\Pigeon_01.wav</ShortName>
+					<Path>SFX/Environment/Pigeon/Pigeon_01_D623909A.wem</Path>
+				</File>
+				<File Id="813640570" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_11.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_11_D623909A.wem</Path>
+				</File>
+				<File Id="821494868" Language="SFX">
+					<ShortName>Kara\NPC_Kara_VO_02.wav</ShortName>
+					<Path>SFX/Kara/NPC_Kara_VO_02_D623909A.wem</Path>
+				</File>
+				<File Id="824939048" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_29.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_29_D623909A.wem</Path>
+				</File>
+				<File Id="840278170" Language="SFX">
+					<ShortName>Lilly\NPC_Lilly_VO_01.wav</ShortName>
+					<Path>SFX/Lilly/NPC_Lilly_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="853108657" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_35.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_35_D623909A.wem</Path>
+				</File>
+				<File Id="874782814" Language="SFX">
+					<ShortName>Player\Male\Player_VO_28.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_28_D623909A.wem</Path>
+				</File>
+				<File Id="878050262" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_24.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_24_D623909A.wem</Path>
+				</File>
+				<File Id="878418539" Language="SFX">
+					<ShortName>Vincent\NPC_Vincent_VO_01.wav</ShortName>
+					<Path>SFX/Vincent/NPC_Vincent_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="883925885" Language="SFX">
+					<ShortName>Player\Male\Player_VO_26.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_26_D623909A.wem</Path>
+				</File>
+				<File Id="886679445" Language="SFX">
+					<ShortName>Player\Male\Player_VO_11.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_11_D623909A.wem</Path>
+				</File>
+				<File Id="902349257" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_22.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_22_D623909A.wem</Path>
+				</File>
+				<File Id="922280819" Language="SFX">
+					<ShortName>Andrew\NPC_Andrew_VO_05.wav</ShortName>
+					<Path>SFX/Andrew/NPC_Andrew_VO_05_D623909A.wem</Path>
+				</File>
+				<File Id="930157890" Language="SFX">
+					<ShortName>Airplane.wav</ShortName>
+					<Path>SFX/Airplane_75F58E51.wem</Path>
+				</File>
+				<File Id="944686441" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_05.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_05_D623909A.wem</Path>
+				</File>
+				<File Id="952685878" Language="SFX">
+					<ShortName>Player\Male\Player_VO_24.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_24_D623909A.wem</Path>
+				</File>
+				<File Id="960121761" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_21.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_21_D623909A.wem</Path>
+				</File>
+				<File Id="964328562" Language="SFX">
+					<ShortName>Nic\NPC_Nic_VO_04.wav</ShortName>
+					<Path>SFX/Nic/NPC_Nic_VO_04_D623909A.wem</Path>
+				</File>
+				<File Id="981170238" Language="SFX">
+					<ShortName>Player\Female\Player_VO_FM_32.wav</ShortName>
+					<Path>SFX/Player/Female/Player_VO_FM_32_D623909A.wem</Path>
+				</File>
+				<File Id="982039955" Language="SFX">
+					<ShortName>Environment\Pigeon\Pigeon_02.wav</ShortName>
+					<Path>SFX/Environment/Pigeon/Pigeon_02_D623909A.wem</Path>
+				</File>
+				<File Id="999192460" Language="SFX">
+					<ShortName>Vincent\NPC_Vincent_VO_03.wav</ShortName>
+					<Path>SFX/Vincent/NPC_Vincent_VO_03_D623909A.wem</Path>
+				</File>
+				<File Id="1009748982" Language="SFX">
+					<ShortName>Andrew\NPC_Andrew_VO_01.wav</ShortName>
+					<Path>SFX/Andrew/NPC_Andrew_VO_01_D623909A.wem</Path>
+				</File>
+				<File Id="1024379238" Language="SFX">
+					<ShortName>Player\Male\Player_VO_09.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_09_D623909A.wem</Path>
+				</File>
+				<File Id="1044408858" Language="SFX">
+					<ShortName>Player\Male\Player_VO_08.wav</ShortName>
+					<Path>SFX/Player/Male/Player_VO_08_D623909A.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<SwitchGroups>
+				<SwitchGroup Id="1776943274" Name="Gender" ObjectPath="\Switches\Default Work Unit\Gender" GUID="{7B84D8C0-2DA4-47A5-8B73-7CC40C51FF0F}">
+					<Switches>
+						<Switch Id="2204441813" Name="Female" ObjectPath="\Switches\Default Work Unit\Gender\Female" GUID="{626A00FC-19D7-4E7B-85E8-517603D27449}"/>
+						<Switch Id="3111576190" Name="Male" ObjectPath="\Switches\Default Work Unit\Gender\Male" GUID="{EB4DF741-5525-420E-BF38-4B73FCE980E3}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

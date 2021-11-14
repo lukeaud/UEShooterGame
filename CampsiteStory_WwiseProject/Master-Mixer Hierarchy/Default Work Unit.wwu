@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7E7506CD-7B0E-4F4C-8DB5-838AEA7D2ED3}" SchemaVersion="103">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{7E7506CD-7B0E-4F4C-8DB5-838AEA7D2ED3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{DBF1B911-8A63-4D6A-BFEE-4010A7E50674}" WorkUnitID="{EB01D24C-C402-4484-ADC8-35008235E6C3}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Environment_Obj" ID="{F25321AF-E7D0-4A3A-BA88-52677D7FDB4E}">
+							<PropertyList>
+								<Property Name="BusChannelConfig" Type="int32">
+									<ValueList>
+										<Value>768</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Dialogue_NPC" ID="{D59D1AAA-18AA-4E80-8189-E74C67B7150A}">
+							<PropertyList>
+								<Property Name="BusChannelConfig" Type="int32">
+									<ValueList>
+										<Value>768</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Dialogue_Player" ID="{15D76E1D-5C79-4BC3-A0F8-9EFE22479D58}">
+							<PropertyList>
+								<Property Name="BusChannelConfig" Type="int32">
+									<ValueList>
+										<Value>528</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Environment_nonObj" ID="{73665476-453A-4B68-846D-6B9C33583A2F}">
+							<PropertyList>
+								<Property Name="BusChannelConfig" Type="int32">
+									<ValueList>
+										<Value>528</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="UI" ID="{10156AD3-70A8-4620-8EEC-968640A8D4E8}">
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Room" ID="{C791C25A-AA10-409A-8599-8A5DFE3CBB5E}">
+							<ChildrenList>
+								<AuxBus Name="Reverb" ID="{E209BDCA-4191-4262-BF8B-814238B84F60}">
+									<ObjectLists/>
+								</AuxBus>
+							</ChildrenList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
+					<ObjectLists/>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

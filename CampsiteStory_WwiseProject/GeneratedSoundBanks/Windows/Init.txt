@@ -1,0 +1,16 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	490269931	Dialogue_NPC			\Default Work Unit\Master Audio Bus\Dialogue_NPC	
+	588709227	Environment_nonObj			\Default Work Unit\Master Audio Bus\Environment_nonObj	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
+	1607599214	Environment_Obj			\Default Work Unit\Master Audio Bus\Environment_Obj	
+	2077253480	Room			\Default Work Unit\Master Audio Bus\Room	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	4038030053	Dialogue_Player			\Default Work Unit\Master Audio Bus\Dialogue_Player	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Room\Reverb	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

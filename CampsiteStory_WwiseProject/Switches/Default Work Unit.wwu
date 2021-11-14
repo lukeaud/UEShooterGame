@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A8EA43A0-B017-4722-944A-1E8132CE32D2}" SchemaVersion="103">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{A8EA43A0-B017-4722-944A-1E8132CE32D2}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Gender" ID="{7B84D8C0-2DA4-47A5-8B73-7CC40C51FF0F}">
+					<ChildrenList>
+						<Switch Name="Female" ID="{626A00FC-19D7-4E7B-85E8-517603D27449}"/>
+						<Switch Name="Male" ID="{EB4DF741-5525-420E-BF38-4B73FCE980E3}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

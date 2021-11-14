@@ -1,0 +1,176 @@
+Event	ID	Name			Wwise Object Path	Notes
+	960230593	Play_NPC_Andrew_VO_01			\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_01	
+	960230594	Play_NPC_Andrew_VO_02			\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_02	
+	960230595	Play_NPC_Andrew_VO_03			\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_03	
+	960230596	Play_NPC_Andrew_VO_04			\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_04	
+	960230597	Play_NPC_Andrew_VO_05			\Default Work Unit\VoiceOver\NPC\Andrew\Play_NPC_Andrew_VO_05	
+	1957374721	Play_NPC_Kara_VO_01			\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_01	
+	1957374722	Play_NPC_Kara_VO_02			\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_02	
+	1957374723	Play_NPC_Kara_VO_03			\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_03	
+	1957374724	Play_NPC_Kara_VO_04			\Default Work Unit\VoiceOver\NPC\Kara\Play_NPC_Kara_VO_04	
+	2214458154	Play_NPC_Vera_VO_05			\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_05	
+	2214458155	Play_NPC_Vera_VO_04			\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_04	
+	2214458156	Play_NPC_Vera_VO_03			\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_03	
+	2214458157	Play_NPC_Vera_VO_02			\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_02	
+	2214458158	Play_NPC_Vera_VO_01			\Default Work Unit\VoiceOver\NPC\Vera\Play_NPC_Vera_VO_01	
+	2854773192	Play_NPC_Swet_VO_02			\Default Work Unit\VoiceOver\NPC\Swetlana\Play_NPC_Swet_VO_02	
+	2854773195	Play_NPC_Swet_VO_01			\Default Work Unit\VoiceOver\NPC\Swetlana\Play_NPC_Swet_VO_01	
+	2923554106	Stop_Fire_01			\Default Work Unit\Environment\Ambience\Stop_Fire_01	
+	3343195844	Play_NPC_Lilly_VO_01			\Default Work Unit\VoiceOver\NPC\Lilly\Play_NPC_Lilly_VO_01	
+	3862406704	Play_NPC_Vincent_VO_02			\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_02	
+	3862406705	Play_NPC_Vincent_VO_03			\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_03	
+	3862406707	Play_NPC_Vincent_VO_01			\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_01	
+	3862406710	Play_NPC_Vincent_VO_04			\Default Work Unit\VoiceOver\NPC\Vincent\Play_NPC_Vincent_VO_04	
+	3899671848	Play_NPC_Nic_VO_01			\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_01	
+	3899671850	Play_NPC_Nic_VO_03			\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_03	
+	3899671851	Play_NPC_Nic_VO_02			\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_02	
+	3899671853	Play_NPC_Nic_VO_04			\Default Work Unit\VoiceOver\NPC\Nic\Play_NPC_Nic_VO_04	
+	3962705664	Play_Player_VO_08			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_08	
+	3962705665	Play_Player_VO_09			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_09	
+	3962705674	Play_Player_VO_02			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_02	
+	3962705675	Play_Player_VO_03			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_03	
+	3962705676	Play_Player_VO_04			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_04	
+	3962705677	Play_Player_VO_05			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_05	
+	3962705678	Play_Player_VO_06			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_06	
+	3962705679	Play_Player_VO_07			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_07	
+	3979483378	Play_Player_VO_19			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_19	
+	3979483379	Play_Player_VO_18			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_18	
+	3979483384	Play_Player_VO_13			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_13	
+	3979483385	Play_Player_VO_12			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_12	
+	3979483386	Play_Player_VO_11			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_11	
+	3979483387	Play_Player_VO_10			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_10	
+	3979483388	Play_Player_VO_17			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_17	
+	3979483389	Play_Player_VO_16			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_16	
+	3979483390	Play_Player_VO_15			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_15	
+	3979483391	Play_Player_VO_14			\Default Work Unit\VoiceOver\Player\Thoughts\Play_Player_VO_14	
+	3996260966	Play_Player_VO_28			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_28	
+	3996260967	Play_Player_VO_29			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_29	
+	3996260968	Play_Player_VO_26			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_26	
+	3996260969	Play_Player_VO_27			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_27	
+	3996260970	Play_Player_VO_24			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_24	
+	3996260971	Play_Player_VO_25			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_25	
+	3996260972	Play_Player_VO_22			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_22	
+	3996260973	Play_Player_VO_23			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_23	
+	3996260974	Play_Player_VO_20			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_20	
+	3996260975	Play_Player_VO_21			\Default Work Unit\VoiceOver\Player\Dialogue\Play_Player_VO_21	
+	4013038528	Play_Player_VO_31			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_31	
+	4013038529	Play_Player_VO_30			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_30	
+	4013038530	Play_Player_VO_33			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_33	
+	4013038531	Play_Player_VO_32			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_32	
+	4013038532	Play_Player_VO_35			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_35	
+	4013038533	Play_Player_VO_34			\Default Work Unit\VoiceOver\Player\ChoosingGuilty\Play_Player_VO_34	
+	4040819388	Play_Fire_01			\Default Work Unit\Environment\Ambience\Play_Fire_01	
+	4052191092	Play_NPC_Benji_VO_03			\Default Work Unit\VoiceOver\NPC\Benji\Play_NPC_Benji_VO_03	
+	4052191093	Play_NPC_Benji_VO_02			\Default Work Unit\VoiceOver\NPC\Benji\Play_NPC_Benji_VO_02	
+	4052191094	Play_NPC_Benji_VO_01			\Default Work Unit\VoiceOver\NPC\Benji\Play_NPC_Benji_VO_01	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1776943274	Gender			\Default Work Unit\Gender	
+
+Switch	ID	Name	Switch Group			Notes
+	2204441813	Female	Gender			
+	3111576190	Male	Gender			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1607599214	Environment_Obj			\Default Work Unit\Master Audio Bus\Environment_Obj	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5132986	Player_VO_FM_09	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_09\Player_VO_FM_09		353856
+	7302588	Player_VO_FM_19	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_19\Player_VO_FM_19		115776
+	14362354	Player_VO_16	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_16\Player_VO_16		288832
+	22724925	Player_VO_FM_08	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_08\Player_VO_FM_08		227392
+	29871896	NPC_Nic_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Nic\NPC_Nic_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Nic\NPC_Nic_VO_02		700480
+	58596014	Player_VO_06	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_06\Player_VO_06		342592
+	92015614	NPC_Swet_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Swetlana\NPC_Swet_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Swetlana\NPC_Swet_VO_02		986176
+	98405879	NPC_Vincent_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vincent\NPC_Vincent_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vincent\NPC_Vincent_VO_02		2799168
+	113709054	Player_VO_FM_06	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_06\Player_VO_FM_06		374848
+	117861244	Player_VO_FM_23	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_23_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_23\Player_VO_FM_23		156736
+	128444826	Player_VO_FM_31	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_31_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_31\Player_VO_FM_31		191552
+	136207357	NPC_Benji_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Benji\NPC_Benji_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Benji\NPC_Benji_VO_03		2190400
+	148325317	Player_VO_18	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_18_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_18\Player_VO_18		147520
+	149780715	Player_VO_22	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_22_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_22\Player_VO_22		161856
+	150244734	Player_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_02\Player_VO_02		217152
+	175253041	NPC_Benji_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Benji\NPC_Benji_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Benji\NPC_Benji_VO_01		1028160
+	175319446	NPC_Vincent_VO_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vincent\NPC_Vincent_VO_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vincent\NPC_Vincent_VO_04		854080
+	190862601	Player_VO_05	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_05\Player_VO_05		456768
+	192003110	NPC_Kara_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Kara\NPC_Kara_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Kara\NPC_Kara_VO_01		495680
+	192667130	Player_VO_FM_18	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_18_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_18\Player_VO_FM_18		168000
+	198108283	Player_VO_27	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_27_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_27\Player_VO_27		180288
+	228466233	Player_VO_35	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_35_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_35\Player_VO_35		450624
+	237357734	Player_VO_30	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_30_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_30\Player_VO_30		233536
+	237915561	Player_VO_07	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_07\Player_VO_07		115776
+	238662427	NPC_Vera_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vera\NPC_Vera_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vera\NPC_Vera_VO_01		1774144
+	253505506	Player_VO_20	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_20_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_20\Player_VO_20		170048
+	258589222	Player_VO_31	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_31_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_31\Player_VO_31		161856
+	264759733	Player_VO_FM_27	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_27_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_27\Player_VO_FM_27		207936
+	291610648	Player_VO_FM_20	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_20_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_20\Player_VO_FM_20		209984
+	321762099	NPC_Andrew_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Andrew\NPC_Andrew_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Andrew\NPC_Andrew_VO_02		401472
+	344193084	Player_VO_FM_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_04\Player_VO_FM_04		72768
+	347771204	Player_VO_FM_25	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_25_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_25\Player_VO_FM_25		186432
+	374910612	Player_VO_FM_14	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_14\Player_VO_FM_14		353600
+	375471184	Player_VO_FM_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_03\Player_VO_FM_03		598592
+	386610498	Player_VO_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_04\Player_VO_04		92224
+	415251902	Player_VO_FM_17	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_17_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_17\Player_VO_FM_17		417344
+	418302429	Player_VO_14	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_14\Player_VO_14		309312
+	419270827	Player_VO_FM_30	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_30_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_30\Player_VO_FM_30		299072
+	424746993	Player_VO_FM_13	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_13\Player_VO_FM_13		163904
+	435090476	Player_VO_FM_34	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_34_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_34\Player_VO_FM_34		394304
+	446669458	Player_VO_10	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_10\Player_VO_10		152640
+	449059898	NPC_Andrew_VO_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Andrew\NPC_Andrew_VO_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Andrew\NPC_Andrew_VO_04		1105984
+	457705365	Player_VO_25	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_25_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_25\Player_VO_25		178240
+	459725841	NPC_Vera_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vera\NPC_Vera_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vera\NPC_Vera_VO_02		954432
+	470810116	NPC_Vera_VO_05	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vera\NPC_Vera_VO_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vera\NPC_Vera_VO_05		101440
+	476530844	Player_VO_23	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_23_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_23\Player_VO_23		157760
+	484504608	Player_VO_15	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_15\Player_VO_15		450624
+	485658984	Player_VO_FM_26	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_26_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_26\Player_VO_FM_26		118848
+	496453871	Player_VO_FM_28	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_28_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_28\Player_VO_FM_28		119872
+	500885880	Player_VO_FM_33	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_33_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_33\Player_VO_FM_33		517184
+	503271355	Player_VO_29	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_29_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_29\Player_VO_29		407616
+	505707352	Player_VO_FM_12	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_12\Player_VO_FM_12		228928
+	509872154	NPC_Benji_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Benji\NPC_Benji_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Benji\NPC_Benji_VO_02		3140672
+	513961251	NPC_Vera_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vera\NPC_Vera_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vera\NPC_Vera_VO_03		454720
+	521017068	Player_VO_12	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_12\Player_VO_12		215104
+	533891612	NPC_Andrew_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Andrew\NPC_Andrew_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Andrew\NPC_Andrew_VO_03		2309184
+	541113852	Player_VO_FM_07	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_07\Player_VO_FM_07		110528
+	546003544	NPC_Kara_VO_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Kara\NPC_Kara_VO_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Kara\NPC_Kara_VO_04		565312
+	557285807	Player_VO_FM_16	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_16\Player_VO_FM_16		406976
+	557957676	Player_VO_FM_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_02\Player_VO_FM_02		175680
+	564035777	Player_VO_32	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_32_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_32\Player_VO_32		352320
+	565429829	Player_VO_21	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_21_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_21\Player_VO_21		229440
+	570598238	Player_VO_17	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_17_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_17\Player_VO_17		326464
+	573474321	NPC_Vera_VO_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vera\NPC_Vera_VO_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vera\NPC_Vera_VO_04		1761344
+	573992691	Player_VO_33	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_33_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_33\Player_VO_33		476736
+	604535104	Player_VO_FM_10	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_10\Player_VO_FM_10		210880
+	607615778	NPC_Kara_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Kara\NPC_Kara_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Kara\NPC_Kara_VO_03		358464
+	635521384	Fire_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Environment\Fire\Fire_01_B7D5965D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Environment\Ambience\Fire_01		6230928
+	636568623	Player_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_03\Player_VO_03		510016
+	649040191	NPC_Swet_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Swetlana\NPC_Swet_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Swetlana\NPC_Swet_VO_01		685216
+	674677334	NPC_Nic_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Nic\NPC_Nic_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Nic\NPC_Nic_VO_01		1699904
+	727019415	Player_VO_34	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_34_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_34\Player_VO_34		286784
+	732051085	NPC_Nic_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Nic\NPC_Nic_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Nic\NPC_Nic_VO_03		2718784
+	740903623	Player_VO_FM_15	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_15\Player_VO_FM_15		527424
+	747710228	Player_VO_13	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_13\Player_VO_13		154688
+	757967590	Player_VO_19	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_19\Player_VO_19		115776
+	813640570	Player_VO_FM_11	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_11\Player_VO_FM_11		283712
+	821494868	NPC_Kara_VO_02	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Kara\NPC_Kara_VO_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Kara\NPC_Kara_VO_02		1180736
+	824939048	Player_VO_FM_29	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_29_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_29\Player_VO_FM_29		525376
+	840278170	NPC_Lilly_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Lilly\NPC_Lilly_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Lilly\NPC_Lilly_VO_01		1826880
+	853108657	Player_VO_FM_35	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_35_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_35\Player_VO_FM_35		518208
+	874782814	Player_VO_28	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_28_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_28\Player_VO_28		114752
+	878050262	Player_VO_FM_24	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_24_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_24\Player_VO_FM_24		287552
+	878418539	NPC_Vincent_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vincent\NPC_Vincent_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vincent\NPC_Vincent_VO_01		1548352
+	883925885	Player_VO_26	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_26_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_26\Player_VO_26		100416
+	886679445	Player_VO_11	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_11\Player_VO_11		195648
+	902349257	Player_VO_FM_22	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_22_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_22\Player_VO_FM_22		155712
+	922280819	NPC_Andrew_VO_05	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Andrew\NPC_Andrew_VO_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Andrew\NPC_Andrew_VO_05		282688
+	944686441	Player_VO_FM_05	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_05\Player_VO_FM_05		458816
+	952685878	Player_VO_24	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_24_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_24\Player_VO_24		200768
+	960121761	Player_VO_FM_21	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_21_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Dialogue\Player_VO_21\Player_VO_FM_21		309312
+	964328562	NPC_Nic_VO_04	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Nic\NPC_Nic_VO_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Nic\NPC_Nic_VO_04		928320
+	981170238	Player_VO_FM_32	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Female\Player_VO_FM_32_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_32\Player_VO_FM_32		348224
+	999192460	NPC_Vincent_VO_03	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Vincent\NPC_Vincent_VO_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Vincent\NPC_Vincent_VO_03		1909824
+	1009748982	NPC_Andrew_VO_01	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Andrew\NPC_Andrew_VO_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\NPC_Voice\Andrew\NPC_Andrew_VO_01		1151040
+	1024379238	Player_VO_09	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_09\Player_VO_09		265536
+	1044408858	Player_VO_08	Y:\UnityProjects\CampsiteStory\CampsiteStory_WwiseProject\.cache\Mac\SFX\Player\Male\Player_VO_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Voice\Thoughts\Player_VO_08\Player_VO_08		215104
+
